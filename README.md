@@ -5,7 +5,7 @@ A Hero Image is a prominent, large photo at the top of a webpage. It's prime spa
 
 # Installation
 
-Install the RBT.Kentico.Xperience.Custom.Widgets.HeroImage.1.0.0 NuGet Package to your Xperience by Kentico website (>=29.4.0 with .Net 8.0) and rebuild the project.
+Install the [RBT.Kentico.Xperience.Custom.Widgets.HeroImage.1.0.0](https://www.nuget.org/packages/RBT.Kentico.Xperience.Custom.Widgets.HeroImage) NuGet Package to your Xperience by Kentico website (>=29.4.0 with .Net 8.0) and rebuild the project.
 
 # Widget
 
