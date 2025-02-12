@@ -9,7 +9,7 @@ Install the [RBT.Kentico.Xperience.Custom.Widgets.HeroImage.1.0.0](https://www.n
 
 # Widget
 
-This is a widget which allows you to add a HeroIamge to your page with certain attributes that can be configured while adding. The properties that can be configured are:
+This is a widget which allows you to add a HeroImage to your page with certain attributes that can be configured while adding. The properties that can be configured are:
 - Is Visible: Select this to display the widget on the page
 - Hero Image CSS Class: Enter the desired CSS class for the banner div style
 - Hero Image Title: Enter the desired text to display in the Hero Image section
@@ -34,7 +34,7 @@ Last updated 31-01-2025
 
 This widget is provided under MIT license.
 
-# Installation
+# Uninstall
 
 Uninstall this from the NuGet Package Manager and rebuild the project.
 
